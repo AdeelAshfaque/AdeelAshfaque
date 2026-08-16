@@ -1,221 +1,381 @@
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:7B2CBF&height=260&section=header&text=Adeel%20Ashfaque&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Full%20Stack%20Development&descAlignY=62&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Adeel%20Ashfaque&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18&animation=fadeIn&color=0:071a14,50:00c853,100:7b2cbf" width="100%">
 
 <br>
 
+<h2>Building software that actually works</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer;Backend+Enthusiast;Building+Projects+%7C+Learning+Every+Day" />
+<p>
+Backend Development &nbsp;•&nbsp; Full Stack Development &nbsp;•&nbsp; Databases
+</p>
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Backend+Enthusiast;Always+Learning+%7C+Always+Building" />
 
 <br><br>
 
-
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 
 </div>
 
-
 <br>
 
+---
 
 <div align="center">
 
+<h2>ABOUT ME</h2>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   $ whoami                                                   ║
-║                                                              ║
-║   A Computer Science student who enjoys building things.     ║
-║                                                              ║
-║   $ focus                                                     ║
-║                                                              ║
-║   Full Stack Development • Backend • Databases               ║
-║                                                              ║
-║   $ philosophy                                                ║
-║                                                              ║
-║   Learn → Build → Break → Debug → Improve → Repeat           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-</div> <br>
-About Me
+<p>
+I'm a Computer Science student interested in building real-world software,
+understanding how systems work, and continuously improving my development skills.
+</p>
 
-I'm a Computer Science student passionate about software development and building practical applications.
+<p>
+My main interests are <b>Full Stack Development</b>, <b>Backend Engineering</b>,
+<b>Databases</b>, and <b>Software Development</b>.
+</p>
 
-I enjoy working on both frontend and backend systems, learning how different parts of an application connect together, and turning ideas into working software.
+</div>
 
-My current interests include:
-
-Full Stack Web Development
-Backend Development
-REST APIs
-Database Design
-Authentication & Authorization
-Software Engineering
-Cloud & Deployment
 <br>
-Tech Stack
+
 <div align="center">
-Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css&perline=6"/>
+
+<pre>
+$ whoami
+
+Computer Science Student
+Full Stack Developer
+Backend Enthusiast
+Problem Solver
+
+$ current_status
+
+Learning → Building → Debugging → Improving
+</pre>
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">TECH STACK</h2>
+
+<div align="center">
+
+<h3>Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css&perline=6">
 
 <br><br>
 
-Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&perline=3"/>
+<h3>Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&perline=3">
 
 <br><br>
 
-Backend
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs&perline=2"/>
+<h3>Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&perline=2">
 
 <br><br>
 
-Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql&perline=2"/>
+<h3>Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql&perline=2">
 
 <br><br>
 
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=4"/> </div> <br>
-Featured Projects
-E-Commerce Web Application
+<h3>Tools</h3>
 
-A full-stack ecommerce application built with a modern frontend and backend architecture.
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=4">
 
-Features
-User authentication
-JWT-based authorization
-Customer and Admin roles
-Product management
-Order processing
-REST API
-MongoDB database
-Technologies
-
-Python FastAPI React MongoDB JWT
+</div>
 
 <br>
-Weather Application
 
-A web application that consumes a weather API and presents weather information through a simple interface.
+---
 
-Technologies
-
-JavaScript HTML CSS REST API
+<h2 align="center">WHAT I BUILD</h2>
 
 <br>
-React Todo Application
 
-A task management application built while learning React state management and component-based development.
+<table align="center">
+<tr>
 
-Features
-Add tasks
-Edit tasks
-Complete tasks
-Manage application state
-Technologies
+<td width="33%" align="center">
 
-React JavaScript Tailwind CSS
+<h3>WEB DEVELOPMENT</h3>
+
+<p>
+Modern and responsive web applications using React and JavaScript.
+</p>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>BACKEND</h3>
+
+<p>
+REST APIs, authentication, authorization and backend services.
+</p>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>DATABASES</h3>
+
+<p>
+Database design, data modeling and application data management.
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <br>
-Currency Converter
 
-A web application that retrieves exchange-rate information from an external API and converts currencies interactively.
+---
 
-Technologies
-
-JavaScript HTML CSS REST API
+<h2 align="center">FEATURED PROJECTS</h2>
 
 <br>
-Currently Learning
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">E-Commerce Web Application</h3>
+
+<p align="center">
+A full-stack ecommerce platform with authentication,
+role-based access control, product management and order processing.
+</p>
+
+<p align="center">
+<b>React</b> • <b>FastAPI</b> • <b>MongoDB</b> • <b>JWT</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Weather Application</h3>
+
+<p align="center">
+A weather application using an external API to retrieve
+and display weather information.
+</p>
+
+<p align="center">
+<b>JavaScript</b> • <b>HTML</b> • <b>CSS</b> • <b>REST API</b>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">React Todo Application</h3>
+
+<p align="center">
+A task management application with adding, editing,
+completion and state management functionality.
+</p>
+
+<p align="center">
+<b>React</b> • <b>JavaScript</b> • <b>Tailwind CSS</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Currency Converter</h3>
+
+<p align="center">
+A currency conversion application using external
+exchange-rate data.
+</p>
+
+<p align="center">
+<b>JavaScript</b> • <b>API</b> • <b>HTML</b> • <b>CSS</b>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+<h2 align="center">CURRENTLY LEARNING</h2>
+
 <div align="center">
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  Backend Engineering                                │
-│                                                     │
-│  React & Modern JavaScript                          │
-│                                                     │
-│  REST API Development                               │
-│                                                     │
-│  Database Architecture                              │
-│                                                     │
-│  Cloud Deployment                                   │
-│                                                     │
-│  Software Architecture                              │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-</div> <br>
-Development Philosophy
+
+<pre>
+┌──────────────────────────────────────────────┐
+│                                              │
+│   Backend Engineering                        │
+│   React & Modern JavaScript                  │
+│   REST API Development                       │
+│   Database Design                             │
+│   Cloud Deployment                            │
+│   Software Architecture                      │
+│                                              │
+└──────────────────────────────────────────────┘
+</pre>
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">MY DEVELOPMENT LOOP</h2>
+
 <div align="center">
-                     ┌───────────┐
-                     │   LEARN   │
-                     └─────┬─────┘
-                           │
-                           ▼
-                     ┌───────────┐
-                     │   BUILD   │
-                     └─────┬─────┘
-                           │
-                           ▼
-                     ┌───────────┐
-                     │   BREAK   │
-                     └─────┬─────┘
-                           │
-                           ▼
-                     ┌───────────┐
-                     │   DEBUG   │
-                     └─────┬─────┘
-                           │
-                           ▼
-                     ┌───────────┐
-                     │  IMPROVE  │
-                     └─────┬─────┘
-                           │
-                           └───────────────┐
-                                           │
-                                           ▼
-                                         REPEAT
-</div> <br>
-GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&include_all_commits=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" width="40%"/> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="60%"/> </div> <br>
-Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=FFFFFF&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div> <br>
-Goals
+
+<pre>
+              ┌───────────┐
+              │   LEARN   │
+              └─────┬─────┘
+                    ↓
+              ┌───────────┐
+              │   BUILD   │
+              └─────┬─────┘
+                    ↓
+              ┌───────────┐
+              │   BREAK   │
+              └─────┬─────┘
+                    ↓
+              ┌───────────┐
+              │   DEBUG   │
+              └─────┬─────┘
+                    ↓
+              ┌───────────┐
+              │  IMPROVE  │
+              └─────┬─────┘
+                    ↓
+                  REPEAT
+</pre>
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">GITHUB STATISTICS</h2>
+
+<br>
+
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&include_all_commits=true" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="60%">
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">CONTRIBUTION GRAPH</h2>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%">
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">GOALS</h2>
+
+<div align="center">
+
+<pre>
 [✓] Learn programming fundamentals
 [✓] Build real applications
 [✓] Learn frontend development
 [✓] Learn backend development
 [✓] Work with databases
 
-
 [ ] Build production-ready applications
 [ ] Contribute to open source
 [ ] Deploy more projects
 [ ] Improve system design
 [ ] Become a better software engineer
-</div> <br>
-Connect With Me
-<div align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> </div>
+</pre>
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">CONNECT WITH ME</h2>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 
 <br><br>
 
 <div align="center">
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                 KEEP BUILDING. KEEP LEARNING.                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-<br> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS"/> </div> ```
+
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║              KEEP BUILDING. KEEP LEARNING.               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS">
+
+</div>
