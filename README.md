@@ -151,7 +151,7 @@ Database design, data modeling and application data management.
 
 ---
 
-<h2 align="center">FEATURED PROJECTS</h2>
+<h2 align="center">TOP PROJECTS</h2>
 
 <br>
 
@@ -161,30 +161,30 @@ Database design, data modeling and application data management.
 
 <td width="50%" valign="top">
 
-<h3 align="center">E-Commerce Web Application</h3>
+<h3 align="center">Stock Price Predictor AI</h3>
 
 <p align="center">
-A full-stack ecommerce platform with authentication,
-role-based access control, product management and order processing.
+An AI/ML project focused on analyzing stock market data
+and predicting future price movements.
 </p>
 
 <p align="center">
-<b>React</b> • <b>FastAPI</b> • <b>MongoDB</b> • <b>JWT</b>
+<b>Python</b> • <b>Machine Learning</b> • <b>AI</b> • <b>Data Analysis</b>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">Weather Application</h3>
+<h3 align="center">AI Life Replay</h3>
 
 <p align="center">
-A weather application using an external API to retrieve
-and display weather information.
+An AI-focused project exploring intelligent analysis,
+memory and personalized digital experiences.
 </p>
 
 <p align="center">
-<b>JavaScript</b> • <b>HTML</b> • <b>CSS</b> • <b>REST API</b>
+<b>Python</b> • <b>AI</b> • <b>Machine Learning</b>
 </p>
 
 </td>
@@ -195,30 +195,30 @@ and display weather information.
 
 <td width="50%" valign="top">
 
-<h3 align="center">React Todo Application</h3>
+<h3 align="center">E-Commerce Platform</h3>
 
 <p align="center">
-A task management application with adding, editing,
-completion and state management functionality.
+A full-stack ecommerce application with authentication,
+role-based access control, product management and order processing.
 </p>
 
 <p align="center">
-<b>React</b> • <b>JavaScript</b> • <b>Tailwind CSS</b>
+<b>FastAPI</b> • <b>React</b> • <b>MongoDB</b> • <b>JWT</b>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">Currency Converter</h3>
+<h3 align="center">Consulics</h3>
 
 <p align="center">
-A currency conversion application using external
-exchange-rate data.
+A software project focused on building a practical
+digital solution with modern development technologies.
 </p>
 
 <p align="center">
-<b>JavaScript</b> • <b>API</b> • <b>HTML</b> • <b>CSS</b>
+<b>Python</b> • <b>Web Development</b> • <b>AI</b>
 </p>
 
 </td>
@@ -238,12 +238,19 @@ exchange-rate data.
 <pre>
 ┌──────────────────────────────────────────────┐
 │                                              │
-│   Backend Engineering                        │
-│   React & Modern JavaScript                  │
-│   REST API Development                       │
-│   Database Design                             │
-│   Cloud Deployment                            │
-│   Software Architecture                      │
+│   Artificial Intelligence                    │
+│                                              │
+│   Machine Learning                            │
+│                                              │
+│   Deep Learning                               │
+│                                              │
+│   Generative AI                               │
+│                                              │
+│   Large Language Models                       │
+│                                              │
+│   AI Agents                                   │
+│                                              │
+│   Retrieval-Augmented Generation              │
 │                                              │
 └──────────────────────────────────────────────┘
 </pre>
@@ -252,7 +259,7 @@ exchange-rate data.
 
 <br>
 
----
+------
 
 <h2 align="center">MY DEVELOPMENT LOOP</h2>
 
