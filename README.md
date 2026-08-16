@@ -288,23 +288,38 @@ exchange-rate data.
 
 ---
 
-<h2 align="center">GITHUB STATISTICS</h2>
-
-<br>
+<h2 align="center">GITHUB</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&include_all_commits=true" width="48%">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%">
+<a href="https://github.com/AdeelAshfaque">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-00c853?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/AdeelAshfaque?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-7b2cbf?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="60%">
+<pre>
+$ git status
+
+On branch main
+
+Building new projects...
+Learning new technologies...
+Improving every day...
+
+$ echo "Keep building."
+</pre>
 
 </div>
 
 <br>
+
 
 ---
 
