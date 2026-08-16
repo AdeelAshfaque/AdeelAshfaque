@@ -1,92 +1,86 @@
+Copy **everything inside this code block** and paste it directly into your GitHub profile repository's `README.md`.
+
+Only replace `YOUR_GITHUB_USERNAME` with your actual GitHub username. Everything else can stay as it is.
+
+````markdown
 <div align="center">
 
-# Adeel
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Adeel%20Ashfaque&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn&color=gradient" width="100%"/>
 
-### Computer Science Student · Developer · Builder
+<br>
+
+<h3>Hey, I'm Adeel</h3>
 
 <p>
-  <i>Turning ideas into useful software.</i>
+Computer Science Student • Developer • Builder
 </p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071a14,50:00a86b,100:6f42c1&height=4&section=header" width="100%">
+```text
+$ whoami
+
+Computer Science Student
+Full Stack Developer
+Backend Enthusiast
+Problem Solver
+
+$ current_status
+
+Learning → Building → Debugging → Improving
+````
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">ABOUT ME</h2>
+
+<div align="center">
+
+I'm a Computer Science student passionate about building
+real-world applications and learning modern technologies.
+
+I enjoy working across the stack — from creating interfaces
+to developing APIs and designing databases.
 
 </div>
 
 <br>
 
 <div align="center">
-
-```text
-$ whoami
-
-computer science student
-full-stack developer
-backend enthusiast
-open-source learner
-
-$ current_status
-
-learning → building → debugging → improving
-```
-
-</div>
-
-<br>
-
-## About Me
-
-I'm a Computer Science student interested in **software development, backend engineering, databases, and modern web technologies**.
-
-I enjoy taking an idea, breaking it into smaller problems, and turning it into a working application.
-
-My current focus is on becoming a stronger **full-stack developer** while building practical projects and improving my understanding of software engineering.
 
 ```text
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   BUILDING        ████████████████████░░░░   80%        │
-│   LEARNING        █████████████████████░░░   85%        │
-│   DEBUGGING       ██████████████████████░░   90%        │
-│   COFFEE          ████████████████████████  100%        │
+│   BUILDING       ████████████████████░░░░               │
+│   LEARNING       █████████████████████░░░               │
+│   DEBUGGING      ██████████████████████░░               │
+│   PROBLEM        ███████████████████████░               │
+│   SOLVING                                             │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 <br>
 
-## Tech Stack
+<h2 align="center">TECH STACK</h2>
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css&perline=6" />
 
 <br><br>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,nodejs&perline=5" />
 
 <br><br>
 
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-
-<br><br>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-
-<br><br>
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,linux,vscode&perline=6" />
 
 </div>
 
@@ -94,188 +88,234 @@ My current focus is on becoming a stronger **full-stack developer** while buildi
 
 ---
 
-## What I Build
+<h2 align="center">WHAT I BUILD</h2>
 
-<table>
+<br>
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
 
-### Full-Stack Applications
+<td width="33%" align="center">
 
-Building complete applications with modern frontend and backend technologies.
+<h3>WEB DEVELOPMENT</h3>
 
-**Focus**
+Building modern and responsive web applications.
 
-* REST APIs
-* Authentication
-* State management
-* Responsive interfaces
-* Backend architecture
+<br><br>
 
-</td>
-
-<td width="50%" valign="top">
-
-### Backend Systems
-
-Interested in how applications work behind the interface.
-
-**Focus**
-
-* API design
-* Database architecture
-* Authentication
-* Authorization
-* Data management
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Database Applications
-
-Working with both relational and NoSQL databases.
-
-**Focus**
-
-* MongoDB
-* PostgreSQL
-* Data modeling
-* Queries
-* Database design
+React
+JavaScript
+HTML
+CSS
+Tailwind
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### Problem Solving
+<h3>BACKEND</h3>
 
-I enjoy understanding why something doesn't work and figuring out how to make it work better.
+Building APIs and backend services.
 
-```text
-problem
-   ↓
-understand
-   ↓
-design
-   ↓
-build
-   ↓
-test
-   ↓
-improve
-```
+<br><br>
+
+Python
+FastAPI
+REST APIs
+Authentication
+JWT
 
 </td>
+
+<td width="33%" align="center">
+
+<h3>DATABASES</h3>
+
+Working with data and database systems.
+
+<br><br>
+
+MongoDB
+PostgreSQL
+Data Modeling
+Queries
+Database Design
+
+</td>
+
 </tr>
 </table>
 
----
-
-## Featured Projects
-
-### E-Commerce Web Application
-
-A full-stack ecommerce application with a modern frontend, REST API backend, database integration, authentication, and role-based access control.
-
-**Stack**
-
-`React` `FastAPI` `MongoDB` `JWT` `Python`
+<br>
 
 ---
 
-### Weather Application
+<h2 align="center">FEATURED PROJECTS</h2>
 
-A weather application that retrieves information from an external API and presents it through a clean web interface.
+<br>
 
-**Stack**
+<div align="center">
 
-`JavaScript` `HTML` `CSS` `REST API`
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">E-Commerce Platform</h3>
+
+<p align="center">
+Full-stack ecommerce application with authentication,
+role-based access control, product management and orders.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Weather Application</h3>
+
+<p align="center">
+Weather application using an external API to retrieve
+and display weather information.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">React Todo App</h3>
+
+<p align="center">
+Interactive task management application with adding,
+editing, completing and deleting functionality.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Currency Converter</h3>
+
+<p align="center">
+Currency conversion application using exchange-rate
+data from an external API.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=googlecloud&logoColor=white"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
 
 ---
 
-### React Todo Application
-
-A responsive task management application featuring state management, adding, editing, completing, and managing tasks.
-
-**Stack**
-
-`React` `JavaScript` `Tailwind CSS`
-
----
-
-### Currency Converter
-
-A web application that retrieves exchange-rate data from an external API and provides currency conversion through an interactive interface.
-
-**Stack**
-
-`JavaScript` `HTML` `CSS` `REST API`
-
----
-
-## Currently Learning
+<h2 align="center">CURRENTLY LEARNING</h2>
 
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   Full-Stack Development                            │
-│   Backend Engineering                               │
-│   React & Modern JavaScript                         │
-│   REST API Development                              │
-│   Database Design                                   │
-│   Cloud Deployment                                  │
-│   Software Architecture                             │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│                                              │
+│   Backend Engineering                        │
+│   React & Modern JavaScript                  │
+│   REST API Development                       │
+│   Database Design                             │
+│   Cloud Deployment                            │
+│   Software Architecture                      │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 </div>
 
----
+<br>
 
-## Development Philosophy
+<h2 align="center">MY DEVELOPMENT LOOP</h2>
 
 <div align="center">
 
 ```text
-        LEARN
-          │
-          ▼
-        BUILD
-          │
-          ▼
-        BREAK
-          │
-          ▼
-       DEBUG
-          │
-          ▼
-       IMPROVE
-          │
-          ▼
-        REPEAT
+              ┌───────────┐
+              │   LEARN   │
+              └─────┬─────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │   BUILD   │
+              └─────┬─────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │   BREAK   │
+              └─────┬─────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │  DEBUG    │
+              └─────┬─────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │  IMPROVE  │
+              └─────┬─────┘
+                    │
+                    └──────────────► REPEAT
 ```
 
 </div>
 
-I believe the best way to learn software development is to **build real things**.
-
-Every project is an opportunity to understand something more deeply, whether it's an API, database, frontend component, authentication system, or a bug that refuses to disappear.
+<br>
 
 ---
 
-## GitHub Activity
+<h2 align="center">GITHUB STATS</h2>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adeel&show_icons=true&hide_border=true&theme=transparent&title_color=00e676&icon_color=00e676&text_color=ffffff" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&include_all_commits=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel&layout=compact&hide_border=true&theme=transparent&title_color=00e676&text_color=ffffff" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%"/>
 
 </div>
 
@@ -283,37 +323,31 @@ Every project is an opportunity to understand something more deeply, whether it'
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeel&hide_border=true&background=00000000&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="60%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="55%"/>
 
 </div>
 
+<br>
+
 ---
 
-## GitHub Contribution Graph
+<h2 align="center">CONTRIBUTION GRAPH</h2>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
----
-
-## Beyond Code
-
-```text
-Football       ████████████████████
-Photography    █████████████████
-Music          ███████████████
-Teaching       █████████████████
-Problem Solving██████████████████████
-```
-
-I also enjoy exploring technology beyond coursework, experimenting with new tools, and learning by building.
+<br>
 
 ---
 
-## Goals
+<h2 align="center">GOALS</h2>
+
+<div align="center">
 
 ```text
 [✓] Learn programming fundamentals
@@ -321,42 +355,64 @@ I also enjoy exploring technology beyond coursework, experimenting with new tool
 [✓] Learn frontend development
 [✓] Learn backend development
 [✓] Work with databases
-[ ] Build larger production-ready systems
+
+[ ] Build production-ready systems
 [ ] Contribute to open source
 [ ] Deploy more projects
-[ ] Keep learning
+[ ] Become a better software engineer
 ```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
 </div>
 
 <br>
+
+---
+
+<h2 align="center">CONNECT WITH ME</h2>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br><br>
 
 <div align="center">
 
 ```text
-$ echo "Thanks for visiting."
-
-Thanks for visiting my profile.
-
-Keep building.
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║              KEEP BUILDING. KEEP LEARNING.               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a14,50:00a86b,100:6f42c1&height=120&section=footer" width="100%">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS"/>
 
 </div>
+```
+
+### Before you save it
+
+Use **Find & Replace** in GitHub's editor:
+
+```text
+YOUR_GITHUB_USERNAME
+```
+
+Replace it with your actual GitHub username **everywhere**.
+
+That's it. Then click **Commit changes**.
+
+The big banner is at the **top**, and there is no banner at the bottom.
