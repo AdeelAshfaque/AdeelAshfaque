@@ -391,6 +391,5 @@ $ echo "Keep building."
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS">
-
+<img src="https://komarev.com/ghpvc/?username=AdeelAshfaque&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS">
 </div>
